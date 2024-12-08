@@ -1,0 +1,60 @@
+[33mcommit 8d76ac98a8214b6500be4eb0dd83a98463724a57[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: suni <skra13695@gmail.com>
+Date:   Sun Dec 8 08:45:01 2024 +0530
+
+    add f11
+
+[33mcommit a84d9e329301187ecf924094895b011d85e7e216[m
+Merge: 962f895 14feb23
+Author: suni <skra13695@gmail.com>
+Date:   Sun Dec 8 08:23:30 2024 +0530
+
+    conflict fixed
+
+[33mcommit 14feb233c811c623721956c4ef18e5540afedfe4[m[33m ([m[1;32mbranch3[m[33m)[m
+Author: suni <skra13695@gmail.com>
+Date:   Sun Dec 8 07:56:14 2024 +0530
+
+    modify f1
+
+[33mcommit 6e8a8663ebd7d4b067abb03dca0018f9d6b1399b[m
+Author: suni <skra13695@gmail.com>
+Date:   Sun Dec 8 07:55:21 2024 +0530
+
+    mod f1
+
+[33mcommit 962f8950a580fa9097616bf2d400c2c4904eb660[m
+Author: suni <skra13695@gmail.com>
+Date:   Sun Dec 8 07:21:48 2024 +0530
+
+    modify f1
+
+[33mcommit 943837caf1612a05ba0f427fcf71ab08dffc8114[m
+Author: suni <skra13695@gmail.com>
+Date:   Sun Dec 8 07:21:03 2024 +0530
+
+    adding files
+
+[33mcommit 47ad7415fc3eb956aec3422c19a02c0d6f7ee95c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sunilyuvi <skra13695@gmail.com>
+Date:   Sun Dec 8 06:59:50 2024 +0530
+
+    Create file10
+
+[33mcommit a39120e7f5a8b13081ed558e1588d53e1eaabb99[m[33m ([m[1;31morigin/branch2[m[33m, [m[1;31morigin/branch1[m[33m, [m[1;32mbranch2[m[33m, [m[1;32mbranch1[m[33m)[m
+Author: suni <skra13695@gmail.com>
+Date:   Sat Dec 7 23:45:56 2024 +0530
+
+    secondcommit
+
+[33mcommit d9f274a332b25412efa963669f0745660521bcf2[m
+Author: suni <skra13695@gmail.com>
+Date:   Sat Dec 7 23:43:54 2024 +0530
+
+    first commit
+
+[33mcommit ea2580b0e7b94bf48d884cfb24dfb5a987b21a40[m
+Author: Sunilyuvi <skra13695@gmail.com>
+Date:   Sat Dec 7 23:34:15 2024 +0530
+
+    Initial commit
